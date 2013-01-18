@@ -7,10 +7,6 @@ function jumpBox(list) {
    location.href = list.options[list.selectedIndex].value
    }
 
-//Daniel C. Peterson, 1997  All Rights Reserved
-//User fee required for commercial pages
-//email webmaster@webwinder.com for a quote
-
 function init() 
               {
 
@@ -20,35 +16,13 @@ function init()
               questions[1] = "What was the name of David's gigantic opponent?"
               questions[2] = "What was the name of the Sea that Moses parted?"
               questions[3] = "What did moses throw to the ground that became a serpent?"
-              // questions[4] = "How many times did Samson lie to Delilah before telling her the truth?"
-              // questions[5] = "''Thus saith the Lord, The heaven is my throne, and the earth is my..."
-              // questions[6] = "What king reluctantly commanded Daniel be cast into the den of lions?"
-              // questions[7] = "What city did Joseph take Mary and the young child to following his dream?"
-              // questions[8] = "What were Shadrach, Meshach, and Abednego cast into?"
-              // questions[9] = "How many loaves of bread did Jesus feed four-thousand men (plus women and children) with?"
-              // questions[10] = "Jesus said, ''it's easier for a camel to go through the eye of a needle, than for...''"
-              // questions[11] = "Where was Jesus crucified?"
-              // questions[12] = "How old was Noah when the flood waters were upon the earth?"
-              // questions[13] = "Thou shalt love thy _______ as thyself."
-              // questions[14] = "''The Lord is my shepherd; I shall not want'' is found in what book?"
-              // questions[15] = "How long was Jonah in the belly of the fish?"
+             
 
               answerA = new Array()
               answerA[1] = "Solomon."
               answerA[2] = "Red."
               answerA[3] = "a crown made of thistles."
-              // answerA[4] = "once."
-              // answerA[5] = "domain"
-              // answerA[6] = "Nebuchadnezzar"
-              // answerA[7] = "Nazareth"
-              // answerA[8] = "a tar pit"
-              // answerA[9] = "four"
-              // answerA[10] = "a rich man to enter in the kingdom of God."
-              // answerA[11] = "Cyrene."
-              // answerA[12] = "600."
-              // answerA[13] = "wife."
-              // answerA[14] = "Psalms."
-              // answerA[15] = "two nights and two days."
+              
 
               answerB = new Array()
               answerB[1] = "Joseph."
